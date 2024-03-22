@@ -1,0 +1,7 @@
+C:\Users\abira\Internal\getting-started\getting-started\HelloworldApp\HelloWorldApp.Web\bin\Release\net8.0\publish\HelloWorldApp.Web.exe
+C:\Users\abira\Internal\getting-started\getting-started\HelloworldApp\HelloWorldApp.Web\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\abira\Internal\getting-started\getting-started\HelloworldApp\HelloWorldApp.Web\bin\Release\net8.0\publish\appsettings.json
+C:\Users\abira\Internal\getting-started\getting-started\HelloworldApp\HelloWorldApp.Web\bin\Release\net8.0\publish\HelloWorldApp.Web.dll
+C:\Users\abira\Internal\getting-started\getting-started\HelloworldApp\HelloWorldApp.Web\bin\Release\net8.0\publish\HelloWorldApp.Web.deps.json
+C:\Users\abira\Internal\getting-started\getting-started\HelloworldApp\HelloWorldApp.Web\bin\Release\net8.0\publish\HelloWorldApp.Web.runtimeconfig.json
+C:\Users\abira\Internal\getting-started\getting-started\HelloworldApp\HelloWorldApp.Web\bin\Release\net8.0\publish\HelloWorldApp.Web.pdb
